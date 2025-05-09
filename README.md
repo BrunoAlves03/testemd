@@ -54,7 +54,7 @@ A grande vantagem da opção Public é a possibilidade de criar projetos
 sem limite de quantidade, um benefício que a opção privada não oferece.
 Por esse motivo, a preferência é criar um projeto público.
 
-# Aquisição de Dados
+<h2> Aquisição de Dados <h2>
 
 <p>
 
@@ -222,7 +222,7 @@ no site do EAILab e aprenda sobre rede neural convolucional e suas
 aplicações.
 <h2>
 
-# Testando a eficácia do projeto
+ Testando a eficácia do projeto
 </h2>
 
 <p>
@@ -252,8 +252,7 @@ Os resultados do nosso projetos foram esses:
 Lembre-se de que a inteligência artificial possui um fator de
 aleatoriedade, o que pode resultar em pequenas variações nos resultados.
 <h2>
-
-# Embarque seu projeto
+ Embarque seu projeto
 </h2>
 
 <p>
