@@ -48,11 +48,10 @@ que qualquer usuário na plataforma visualize e clone o seu projeto,
 porém sem a possibilidade de editá-lo. Já no modo privado, há uma
 limitação de até dois projetos, com a vantagem de que eles não podem ser
 visualizados ou clonados por outros usuários.
-<p>
 
-A grande vantagem da opção Public é a possibilidade de criar projetos
+<p>A grande vantagem da opção Public é a possibilidade de criar projetos
 sem limite de quantidade, um benefício que a opção privada não oferece.
-Por esse motivo, a preferência é criar um projeto público.
+Por esse motivo, a preferência é criar um projeto público.</p>
 
 # Aquisição de Dados
 
