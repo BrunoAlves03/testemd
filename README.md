@@ -1,3 +1,4 @@
+<img src="Logo_Dourado.jpg" alt="Logo_Dourado.jpg" width="500" height="500">
 # Passo a Passo no 1º projeto de Inteligência Artificial (IA)!
 
 
