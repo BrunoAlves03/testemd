@@ -21,7 +21,7 @@ Além disso, é uma IA no-code, ou seja, em nenhum momento da construção
 do projeto é necessário escrever códigos, facilitando o processo para
 qualquer pessoa sem experiência na área.
 
-## Crie seu projeto
+# Crie seu projeto
 
 Acesse o site da <a href="https://edgeimpulse.com/">Edge Impulse</a> e
 crie sua conta de forma gratuita (Clique no Get Started no canto
@@ -54,7 +54,7 @@ A grande vantagem da opção Public é a possibilidade de criar projetos
 sem limite de quantidade, um benefício que a opção privada não oferece.
 Por esse motivo, a preferência é criar um projeto público.
 
-## Aquisição de Dados
+# Aquisição de Dados
 
 <p>
 
