@@ -11,7 +11,7 @@ apresenta sinais de tuberculose, demonstrando na prática como a
 plataforma pode ser utilizada para treinar e implementar modelos de
 aprendizado de máquina.
 
- <h2>Edge Impulse<h2/>
+## Edge Impulse
 
 Edge Impulse é a plataforma de inteligência artificial que iremos
 aprender a usar para a criação do nosso primeiro projeto, com aspectos
@@ -21,7 +21,7 @@ Além disso, é uma IA no-code, ou seja, em nenhum momento da construção
 do projeto é necessário escrever códigos, facilitando o processo para
 qualquer pessoa sem experiência na área.
 
- <h2>Crie seu projeto<h2/><h2><h2/>
+# Crie seu projeto
 
 Acesse o site da <a href="https://edgeimpulse.com/">Edge Impulse</a> e
 crie sua conta de forma gratuita (Clique no Get Started no canto
@@ -54,7 +54,7 @@ A grande vantagem da opção Public é a possibilidade de criar projetos
 sem limite de quantidade, um benefício que a opção privada não oferece.
 Por esse motivo, a preferência é criar um projeto público.
 
-<h2>Aquisição de Dados<h2/>
+# Aquisição de Dados
 
 <p>
 
@@ -117,10 +117,7 @@ nome de "Pulmão Doente".
 <p>
 
 Após a coleta de imagens, já é possível criar e treinar nossa IA.
-
-
-<h2> Configure a Inteligência artificial <h2/>
-
+<h2> Configure a Inteligência artificial </h2>
 
 <p>
 
@@ -223,7 +220,10 @@ Caso queira aprender mais sobre Redes Neurais, acesse o
 <a href="https://eailab.labmax.org/2024/08/13/o-poder-das-cnns-em-aplicacoes-de-ml-envolvendo-identificacao-e-classificacao-de-imagens/">post</a>
 no site do EAILab e aprenda sobre rede neural convolucional e suas
 aplicações.
-<h2> Testando a eficácia do projeto </h2>
+<h2>
+
+# Testando a eficácia do projeto
+</h2>
 
 <p>
 
@@ -251,7 +251,10 @@ Os resultados do nosso projetos foram esses:
 
 Lembre-se de que a inteligência artificial possui um fator de
 aleatoriedade, o que pode resultar em pequenas variações nos resultados.
-<h2> Embarque seu projeto </h2>
+<h2>
+
+# Embarque seu projeto
+</h2>
 
 <p>
 
