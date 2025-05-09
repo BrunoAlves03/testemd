@@ -117,8 +117,7 @@ nome de "Pulmão Doente".
 
 Após a coleta de imagens, já é possível criar e treinar nossa IA.
 <h2>
-
-## Configure a Inteligência artificial
+ Configure a Inteligência artificial
 </h2>
 
 <p>
