@@ -54,6 +54,8 @@ A grande vantagem da opção Public é a possibilidade de criar projetos
 sem limite de quantidade, um benefício que a opção privada não oferece.
 Por esse motivo, a preferência é criar um projeto público.
 
+<p/>
+
 <h2> Aquisição de Dados <h2>
 
 <p>
