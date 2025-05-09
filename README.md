@@ -56,8 +56,6 @@ Por esse motivo, a preferência é criar um projeto público.
 
 <p/>
 
-!!!!!!!!!!!!<h2> Aquisição de Dados <h2>
-
 <p>
 
 Este será o menu que trabalharemos até o final do projeto. Para começar
